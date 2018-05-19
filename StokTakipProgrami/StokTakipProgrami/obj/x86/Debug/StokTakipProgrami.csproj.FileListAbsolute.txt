@@ -1,0 +1,10 @@
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\bin\Debug\StokTakipProgrami.exe
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\bin\Debug\StokTakipProgrami.pdb
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.csprojResolveAssemblyReference.cache
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.AnaForm.resources
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.Properties.Resources.resources
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.csproj.GenerateResource.Cache
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.exe
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.pdb
+C:\Users\aykut_000\Documents\Visual Studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.Stok.resources
+C:\Users\aykut_000\documents\visual studio 2010\Projects\StokTakipProgrami\StokTakipProgrami\obj\x86\Debug\StokTakipProgrami.personeldekiUrunler.resources

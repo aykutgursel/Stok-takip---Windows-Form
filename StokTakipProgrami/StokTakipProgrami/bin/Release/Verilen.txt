@@ -1,0 +1,6 @@
+Bilgisayar|25|20|2560|22 Ağustos 2016 Pazartesi|15:10:27
+Bilgisayar|39|36|2560|22 Ağustos 2016 Pazartesi|15:16:54
+Bilgisayar|40|36|2560|22 Ağustos 2016 Pazartesi|15:16:54
+Pıc 1405|İK|3||23 Ağustos 2016 Salı|11:44:09
+Fare|sadsa|0|asdasd|23 Ağustos 2016 Salı|11:44:09
+Pıc 1405|İnsan kaynakları|4|ınsan kaynaklarına 4 adet pic cihazı verildi.|23 Ağustos 2016 Salı|13:01:31
